@@ -1,3 +1,7 @@
+# Airbnb Experiences Clones
+
+This is a clone of the Airbnb experiences site built as part of Scrimba's Frontend Developer Curriculum. The project uses React to build a one page website with a JSON imitation database to display experiences and their availability. 
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
